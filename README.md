@@ -45,6 +45,8 @@ To get a local copy up and running follow these simple example steps.
 
 Below is a demo of the functionality for the back end of an e-commerce site. After setting up the connection/database, and invoking the application, I use Insomnia to test all API routes.
 
+https://github.com/erikbenedict/e-commerce-back-end/assets/89614823/7eddcb6e-828b-4b10-95b5-f0ef3aeb9c59
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
